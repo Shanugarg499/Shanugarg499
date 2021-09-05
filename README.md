@@ -1,6 +1,6 @@
 <h1 align="center">  Hi, I’m Shanu Garg <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<p><img align="right" alt="Coding" width="500" height="320" src="https://cdn.dribbble.com/users/453128/screenshots/3849814/untitled-12.gif"/></br></p>
+<p><img align="right" alt="Coding" width="500" height="320" src="https://github.com/Shanugarg499/Shanugarg499/blob/main/lightsimage.gif?raw=true"/></br></p>
    
 - 💵 I’ve completed two internships as:
     <ul type="square" align ="centre">
