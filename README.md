@@ -22,7 +22,7 @@
 <hr>
 <h2 align="center">My Interests:</br></h2>
 
-Technology | Virtual Reality
+Android / Web apps | Virtual Reality
 ------------ | -------------
 <img align="left" width="450" src="https://github.com/Shanugarg499/Shanugarg499/blob/main/techimage.gif?raw=true"/> | <img align="right" width="450" src="https://github.com/Shanugarg499/Shanugarg499/blob/main/virtual-reality.gif"/>
 
