@@ -2,17 +2,19 @@
 
 <p><img align="right" alt="Coding" width="500" height="320" src="https://github.com/Shanugarg499/Shanugarg499/blob/main/lightsimage.webp?raw=true"/></br></p>
    
-- 💵 I’ve completed two internships as:
+- 💵 I’m a Software engineer with experience as follow:
     <ul type="square" align ="centre">
-      <li> SDE intern </li>
+      <li> Software Engineer @ Analog Devices India </li>
+      <li> SDE intern @ Undostres, Mexico(Remote) </li>
+      <li> SDE intern @ Bosscoder Academy </li>
       <li> Android App Developer intern </li>
     </ul>
 
-- 📫 Pursuing B.Tech. from NIT Delhi, India
+- 📫 Completed Bachelors in Technology from NIT Delhi, India
 
 - 💞️ Problem solving and Creativity has always been my USP.
 
-- 🌱 I’m currently learning & working on React JS
+- 🌱 I’m currently learning & working on Machine Learning.
 
 
 - 📫 You can contact me @LinkedIn: 
@@ -22,9 +24,9 @@
 <hr>
 <h2 align="center">My Interests:</br></h2>
 
-Android / Web apps | Virtual Reality
+Android / Web apps | Machine Learning
 ------------ | -------------
-<img align="left" width="450" src="https://github.com/Shanugarg499/Shanugarg499/blob/main/techimage.gif?raw=true"/> | <img align="right" width="450" src="https://github.com/Shanugarg499/Shanugarg499/blob/main/virtual-reality.gif"/>
+<img align="left" width="450" src="https://github.com/Shanugarg499/Shanugarg499/blob/main/techimage.gif?raw=true"/> | <img align="right" width="450" src="https://github.com/Shanugarg499/Shanugarg499/blob/main/ML_image_1.gif"/>
 
 
 <h2 align="center">Languages for Desktop applications / Console based applications:</h2>
