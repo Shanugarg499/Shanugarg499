@@ -4,6 +4,7 @@
    
 - 💵 I’m a Software engineer with experience as follow:
     <ul type="square" align ="centre">
+       <li> Software Engineer @ Qualcomm India </li>
       <li> Software Engineer @ Analog Devices India </li>
       <li> SDE intern @ Undostres, Mexico(Remote) </li>
       <li> SDE intern @ Bosscoder Academy </li>
