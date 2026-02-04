@@ -5,7 +5,7 @@
 - 💵 I’m a Software engineer with experience as follow:
     <ul type="square" align ="centre">
        <li> Software Engineer @ Qualcomm India </li>
-      <li> Software Engineer @ Analog Devices India </li>
+      <li> Associate Software Engineer @ Analog Devices India </li>
       <li> SDE intern @ Undostres, Mexico(Remote) </li>
       <li> SDE intern @ Bosscoder Academy </li>
       <li> Android App Developer intern </li>
@@ -15,7 +15,7 @@
 
 - 💞️ Problem solving and Creativity has always been my USP.
 
-- 🌱 I’m currently learning & working on Machine Learning.
+- 🌱 I’m AI models, N8N and agentic AI enthausiast.
 
 
 - 📫 You can contact me @LinkedIn: 
