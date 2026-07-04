@@ -2,7 +2,7 @@
 
 <p><img align="right" alt="Coding" width="500" height="320" src="https://github.com/Shanugarg499/Shanugarg499/blob/main/lightsimage.webp?raw=true"/></br></p>
    
-- 💵 I’m a Software engineer with experience as follow:
+- 💵 I’m a compute-analysis-lover, AI-Enthausiast Software engineer with experience as follow:
     <ul type="square" align ="centre">
        <li> Software Engineer @ Qualcomm India </li>
       <li> Associate Software Engineer @ Analog Devices India </li>
